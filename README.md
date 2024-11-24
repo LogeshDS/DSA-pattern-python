@@ -1,4 +1,4 @@
-# DS-and-algorithm-Patterns
+# Data-Structure-Algorithm-Patterns
 
 ## Notes for DSA 
 You can implement these notes in your own favourite programming language.
