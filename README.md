@@ -1,5 +1,5 @@
 # Data-Structure-Algorithm-Patterns
-
+- Credit: Shikha-code36
 ## Notes for DSA 
 You can implement these notes in your own favourite programming language.
 [Notes](https://stingy-shallot-4ea.notion.site/392394b630c9433a94f5ba9aca442389)
